@@ -1,0 +1,20 @@
+.activities {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.activities-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.activities-table th,
+.activities-table td {
+    padding: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.activities-table th {
+    background-color: #f8f9fa;
+    font-weight: 500;
+}
